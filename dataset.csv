@@ -1,0 +1,11 @@
+Income,Recreation,Job,Status,Age-Group,Home-Owner,Target Concept(Risk)
+medium,skiing,design,single,twenties,no,high risk
+high,golf,trading,married,fourties,yes,low risk
+low,speedway,transport,married,thirties,yes,med risk
+medium,football,banking,single,thirties,yes,low risk
+high,flying,media,married,fifties,yes,high risk
+low,football,security,single,twenties,no,med risk
+medium,golf,media,single,thirties,yes,med risk
+medium,golf,transport,married,fourties,yes,low risk
+high,skiing,banking,single,thirties,yes,high risk
+low,golf,unemployed,married,fourties,yes,high risk

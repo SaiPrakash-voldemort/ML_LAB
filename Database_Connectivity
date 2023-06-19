@@ -1,0 +1,13 @@
+import mysql.connector as sql
+mydb=sql.connect(host='localhost',user='root',password="Prakash111*",database='porn')
+cur=mydb.cursor()
+# cur.execute("create database ben10")
+# cur.execute("create table aliens(name varchar(20),age varchar(20))")
+s="insert into aliens(name,age) values (%s,%s)"
+i=("mia","25")
+cur.execute(s,i)
+s="select *from aliens"
+cur.execute(s)
+for i in cur:
+    print(i)
+

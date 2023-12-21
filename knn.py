@@ -1,6 +1,7 @@
 from math import *
 dist_0=[]
 dist_1=[]
+print("Helooooooooooooo")
 
 def calculate_0(x,p):
     for i in x:
